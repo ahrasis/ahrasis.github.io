@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>Mohon maaf! Domain yang anda cari tiada di sini.</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+<style>
+    .tangerine {
+        font-family: "Tangerine", serif;
+        font-size:2.1em;
+    }
+    .myfont {
+        font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+    html { height: 100%; }
+    body {
+        max-height: 100%;
+        margin: 5em auto;
+        max-width: 50em;
+        padding: 0 1em;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+        background: #0575E6;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to bottom, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to bottom, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+    h1, h2, p { color: lightgray; }
+    p { line-height: 1.5; }
+    @media only screen and (max-width: 600px) {
+        body {
+            max-width: 100%;
+        }
+    }
+</style>
+</head>
+<body>
+<h1 class="myfont">Mohon Maaf!</h1>
+<h2>Domain yang anda cari tiada di sini.</h2>
+<p>Sekiranya anda melihat hanya laman ini sedangkan ada laman lain yang sepatutnya anda temui, hubungi tuan sawang ini di <strong>ahrasis [at] gmail [dot] com</strong> den>
+<p>Sekian, terima kasih.</p>
+<p class="tangerine">Hj Ahmad Rasyid Hj Ismail</p>
+</body>
+</html>
